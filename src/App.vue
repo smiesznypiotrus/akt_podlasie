@@ -25,4 +25,15 @@ export default {
 .full-width {
   min-width: 100vh;
 }
+
+html {
+    overflow-x: hidden;
+    width: 100%;
+    min-width: 300px;
+}
+
+body {
+    overflow-x: hidden;
+    width: 100%
+}
 </style>
